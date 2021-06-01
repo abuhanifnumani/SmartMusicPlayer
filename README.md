@@ -26,5 +26,5 @@ User use this Application (Smart Music Player) Regular ‘Media Player’ Using 
 1st Look:
 >When user click this application, then user see this main windows.
 ![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/1.png)
-User can use this four button controlling music player (Previous, Play or Pause, next and stop) which position under the music player main windows.
+<br> User can use this four button controlling music player (Previous, Play or Pause, next and stop) which position under the music player main windows.
 
