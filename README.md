@@ -36,6 +36,5 @@ User use this Application (Smart Music Player) Regular ‘Media Player’ Using 
 > Which is show: • Color Image • Red Button Detect • Green Button Detect • Blue Button Detect
 
 <br>
-#### Full Project Setup:
-<br>
+### Full Project Setup:
 ![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/5.png)
