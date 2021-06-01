@@ -37,5 +37,5 @@ User use this Application (Smart Music Player) Regular ‘Media Player’ Using 
 
 <br>
 #### Full Project Setup:
-> <br>
-> ![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/5.png)
+><br>
+>![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/5.png)
