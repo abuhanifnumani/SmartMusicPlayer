@@ -34,4 +34,3 @@ User use this Application (Smart Music Player) Regular ‘Media Player’ Using 
 > ![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/3.png)
 > <br>
 > Which is show: • Color Image • Red Button Detect • Green Button Detect • Blue Button Detect
-> ![](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/5.png)
