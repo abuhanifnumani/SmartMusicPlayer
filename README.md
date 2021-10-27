@@ -1,6 +1,7 @@
 # SmartMusicPlayer
 This is desktop application. Application where detect any human interaction and control music according to the command.
 <br>
+![Application UI](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/CV%20User%20Interaction.mp4)
 ![Application UI](https://github.com/abuhanifnumani/SmartMusicPlayer/blob/main/0.png)
 <br>
 ### Features of our Application:
